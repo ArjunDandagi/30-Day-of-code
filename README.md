@@ -12,5 +12,5 @@ HackerRank tutorial , started on 14th july 2017
 | Day        | Code           | Problem Link |
 | ------------- |:-------------:| -----:|
 | Day - 0      | HelloWorld.java | [ HelloWorld ](https://www.hackerrank.com/challenges/30-hello-world/problem) |
-| Day - 1     | Datatypes.java      | [Probleml ink](https://www.hackerrank.com/challenges/30-data-types/problem)   |
+| Day - 1     | Datatypes.java      | [Datatypes](https://www.hackerrank.com/challenges/30-data-types/problem)   |
 | will |write|more|
