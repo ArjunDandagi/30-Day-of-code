@@ -7,10 +7,10 @@ HackerRank tutorial , started on 14th july 2017
 <h2 style="padding-left: 100px;"> HelloWorld.java </h2>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Problem link](https://www.hackerrank.com/challenges/30-hello-world/problem)
 
 ## DAY - 1
-&nbsp;&nbsp; Datatypes.java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Problem link](https://www.hackerrank.com/challenges/30-data-types/problem)
+&nbsp;&nbsp; Datatypes.java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Probleml ink](https://www.hackerrank.com/challenges/30-data-types/problem)
 
-| Tables        | Are           | Cool  |
+| Day        | Code           | Problem Link |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Day - 0      | HelloWorld.java | [ HelloWorld ](https://www.hackerrank.com/challenges/30-hello-world/problem) |
+| Day - 1     | Datatypes.java      | [Probleml ink](https://www.hackerrank.com/challenges/30-data-types/problem)   |
+| will |write|more|
