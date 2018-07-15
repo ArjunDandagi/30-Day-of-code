@@ -18,7 +18,7 @@ import java.util.regex.*;
 * @since 2018-07-16
 
  */
-public class Solution {
+public class Operator {
 
     // Complete the solve function below.
 
