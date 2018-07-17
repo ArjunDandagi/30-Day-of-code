@@ -10,3 +10,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 0      | HelloWorld.java | [ HelloWorld ](https://www.hackerrank.com/challenges/30-hello-world/problem) |
 | Day - 1     | Datatypes.java      | [Datatypes](https://www.hackerrank.com/challenges/30-data-types/problem)   |
 | Day - 2  |Operator.java |[Operator](https://www.hackerrank.com/challenges/30-operators/problem)|
+| Day-3 | ConditionalStatements.java| [CondtionalStatements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)|
