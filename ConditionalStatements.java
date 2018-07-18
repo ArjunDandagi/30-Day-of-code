@@ -16,7 +16,7 @@ import java.util.regex.*;
  * @version 1.0
  * @since 2018-07-17
  */
-public class Solution {
+public class ConditionalStatements {
 
 
 
