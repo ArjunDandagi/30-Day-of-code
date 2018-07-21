@@ -14,3 +14,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 4 | Person.java| [ClassVsInstance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)|
 | Day - 5 | Loops.java | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)|
 | Day - 6 | LoopsAndStrings.java| [LoopsAndStrings](https://www.hackerrank.com/challenges/30-review-loop/problem)|
+| Day - 7 | ArrayDatastructure.java | [ArrayDataStructure](https://www.hackerrank.com/challenges/30-arrays/problem)|
