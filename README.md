@@ -16,3 +16,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 6 | LoopsAndStrings.java| [LoopsAndStrings](https://www.hackerrank.com/challenges/30-review-loop/problem)|
 | Day - 7 | ArrayDatastructure.java | [ArrayDataStructure](https://www.hackerrank.com/challenges/30-arrays/problem)|
 | Day - 8 | DictionariesAndMaps.java | [Dictionaries And Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|
+| Day - 9 | Recursion.java | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)|
