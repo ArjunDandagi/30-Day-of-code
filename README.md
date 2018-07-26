@@ -17,4 +17,6 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 7 | ArrayDatastructure.java | [ArrayDataStructure](https://www.hackerrank.com/challenges/30-arrays/problem)|
 | Day - 8 | DictionariesAndMaps.java | [Dictionaries And Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|
 | Day - 9 | Recursion.java | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)|
-| Day - 10 | TwoDArray.java | [2D-Array](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|
+| Day - 10 | DecimalToBinary.java | [DecimalToBinary](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|
+| Day - 11 | TwoDArray.java | [2D-Array](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|
+| Day - 12 | Inheritance.java | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|
