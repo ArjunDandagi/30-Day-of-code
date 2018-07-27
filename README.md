@@ -20,3 +20,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 10 | DecimalToBinary.java | [DecimalToBinary](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|
 | Day - 11 | TwoDArray.java | [2D-Array](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|
 | Day - 12 | Inheritance.java | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|
+| Day - 13 | AbstractClass.java | [AbstractClass](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|
