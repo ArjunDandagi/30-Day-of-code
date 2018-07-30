@@ -23,3 +23,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 13 | AbstractClass.java | [AbstractClass](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|
 | Day - 14 | Scope.java | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)|
 | Day - 15 | LinkedList.java | [LinkedList](https://www.hackerrank.com/challenges/30-linked-list/problem)|
+| Day - 16 | Exception.java | [Exceptions](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|
