@@ -25,3 +25,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 15 | LinkedList.java | [LinkedList](https://www.hackerrank.com/challenges/30-linked-list/problem)|
 | Day - 16 | Exception.java | [Exceptions](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|
 | Day - 17 | MoreExceptions.java | [MoreExceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|
+| Day - 18 | StackAndQueues.java | [StackAndQueues](https://www.hackerrank.com/challenges/30-queues-stacks/problem)|
