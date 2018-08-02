@@ -26,3 +26,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 16 | Exception.java | [Exceptions](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|
 | Day - 17 | MoreExceptions.java | [MoreExceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|
 | Day - 18 | StackAndQueues.java | [StackAndQueues](https://www.hackerrank.com/challenges/30-queues-stacks/problem)|
+| Day - 19 | Interfaces.java | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)|
