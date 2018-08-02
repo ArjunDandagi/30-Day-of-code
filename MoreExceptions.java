@@ -16,18 +16,19 @@ public class MoreExceptions{
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int n=scan.nextInt();
-        int p=scan.nextInt();
-        Calculator calculator= new Calculator();
-        scan.close();
-        try {
-            System.out.println(calculator.power(n, p));
+        int total_testCases=scan.nextInt();
+        while(total_testCases-->0) {
+            int n = scan.nextInt();
+            int p = scan.nextInt();
+            Calculator calculator = new Calculator();
 
-        }
-        catch (Exception e)
-        {
-            System.out.println(e.getMessage());
-        }
+            try {
+                System.out.println(calculator.power(n, p));
+
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
+            }
+        }scan.close();
 
     }
 }
