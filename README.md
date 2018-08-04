@@ -28,3 +28,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 18 | StackAndQueues.java | [StackAndQueues](https://www.hackerrank.com/challenges/30-queues-stacks/problem)|
 | Day - 19 | Interfaces.java | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)|
 | Day - 20 | BubbleSort.java | [BubbleSort](https://www.hackerrank.com/challenges/30-sorting/problem)|
+| Day - 21 | Genrics.java | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)|
