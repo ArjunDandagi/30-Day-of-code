@@ -29,3 +29,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 19 | Interfaces.java | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)|
 | Day - 20 | BubbleSort.java | [BubbleSort](https://www.hackerrank.com/challenges/30-sorting/problem)|
 | Day - 21 | Genrics.java | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)|
+| Day - 22 | BinarySearchTreeHeight.java | [BinarySearchTreeHeight](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)|
