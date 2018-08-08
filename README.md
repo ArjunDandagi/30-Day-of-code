@@ -31,4 +31,5 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 21 | Genrics.java | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)|
 | Day - 22 | BinarySearchTreeHeight.java | [BinarySearchTreeHeight](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)|
 | Day - 23 | BSTinorder.java | [BST-inorder](https://www.hackerrank.com/challenges/30-binary-trees/problem)|
-| Day - 24 | LinkedListRemoveDuplicates | [LinkedListRemoveDuplicates](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)|
+| Day - 24 | LinkedListRemoveDuplicates.java | [LinkedListRemoveDuplicates](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)|
+| Day - 25 | PrimeCheck.java | [PrimeCheck](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)|
