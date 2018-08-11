@@ -35,3 +35,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 25 | PrimeCheck.java | [PrimeCheck](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)|
 | Day - 26 | NestedLogic.java | [NestedLogic](https://www.hackerrank.com/challenges/30-nested-logic/problem)|
 | Day - 27 | Testing.java | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)|
+| Day - 28 | RegexAndPattern.java | [RegexAndPattern](https://www.hackerrank.com/challenges/30-regex-patterns/problem)|
