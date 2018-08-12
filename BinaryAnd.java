@@ -27,15 +27,15 @@ public class BinaryAnd {
 
             for(int i=1;i<n;i++)
             {
-                for(int j=1;j<=n;j++)
+                for(int j=i+1;j<=n;j++)
                 {
-                    if(j>i){
+
                         int current_max=i&j;
                         if(current_max>max && current_max < k)
                         {
                             max=current_max;
                         }
-                    }
+
                 }
             }
 
