@@ -36,3 +36,4 @@ HackerRank tutorial , started on 14th july 2017
 | Day - 26 | NestedLogic.java | [NestedLogic](https://www.hackerrank.com/challenges/30-nested-logic/problem)|
 | Day - 27 | Testing.java | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)|
 | Day - 28 | RegexAndPattern.java | [RegexAndPattern](https://www.hackerrank.com/challenges/30-regex-patterns/problem)|
+| Day - 29 | BinaryAnd.java | [BinaryAnd](https://www.hackerrank.com/challenges/30-bitwise-and/problem)|
